@@ -1,0 +1,36 @@
+#!/bin/bash
+# slxn_comp
+# > Use with slxnfx.R
+#   Selection components
+#   > Determine:
+#       + slxn intensity        (i)
+#       + std. truncation pt    (t)
+#       + slxn prop             (p)
+#       + origin trunc pt       (T)
+#       + slxn differential     (S)
+#       + slxn response         (R)
+#
+# Author: 0cb (03.10.18)    Christian Bowman
+
+INPUT="\n"
+
+echo "Enter variables for selection components: "
+
+until [ "a$INPUT" = "a" ]; do
+    echo "Variable entry (use a blank line to end input): "
+    read INPUT
+    VARIABLES=$VARIABLES"\n"$INPUT
+done
+
+# holder: need new command to ignore/remove first line
+rm ~/Bioinf0cb/Rscripts/smaRtMath_formulae/work.csv
+echo -e $VARIABLES >> ~/Bioinf0cb/Rscripts/smaRtMath_formulae/work.csv
+
+# ====================================
+# Calculator for selection components
+# ====================================
+
+Rscript slxnfx.R
+
+
+exit

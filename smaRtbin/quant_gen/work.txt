@@ -1,0 +1,18 @@
+
+ANOVA Table: 
+Analysis of Variance Table
+
+Response: y
+          Df Sum Sq Mean Sq F value Pr(>F)
+x         14 436.43  31.174  1.3317 0.2389
+Residuals 35 819.33  23.409               
+
+# Groups (n): [1] 15
+Measurements (m0): [1] 3.32
+Estimated variance components: 
+Variance within groups (sigW)^2: [1] 23.4094
+Variance between groups (sigB)^2: [1] 2.338605
+Intra-class corrln (rhoFS): [1] 0.09082664
+Check1: Ans='rho.FS'[1] 0.09082664
+
+Est. narrow-sense heritability: [1] 0.1816533

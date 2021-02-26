@@ -1,0 +1,45 @@
+﻿Highlight range of x
+https://stackoverflow.com/questions/32543176/highlight-areas-within-certain-x-range-in-ggplot2
+https://stackoverflow.com/questions/4733182/how-to-highlight-time-ranges-on-a-plot/4733446 
+
+multiple plots/ lines
+https://www.datamentor.io/r-programming/subplot/ 
+https://www.datanovia.com/en/blog/how-to-create-a-ggplot-with-multiple-lines/ 
+https://stackoverflow.com/questions/26637735/ggplot2-multiple-colours-in-stat-summary
+https://stackoverflow.com/questions/43614863/export-plot-in-png-with-transparent-background 
+https://bookdown.org/ndphillips/YaRrr/arranging-plots-with-parmfrow-and-layout.html
+
+
+diagnostic plots (normality, variance; qqplot)
+https://data.library.virginia.edu/diagnostic-plots/ 
+
+table mods
+https://www.datasciencemadesimple.com/delete-or-drop-rows-in-r-with-conditions-2/ 
+https://stackoverflow.com/questions/7381455/filtering-a-data-frame-by-values-in-a-column 
+https://stackoverflow.com/questions/1686569/filter-data-frame-rows-by-a-logical-condition
+
+aes/ theme
+http://www.nagraj.net/notes/transparent-background-with-ggplot2/
+https://stackoverflow.com/questions/13297995/changing-font-size-and-direction-of-axes-text-in-ggplot2
+http://www.sthda.com/english/wiki/ggplot2-legend-easy-steps-to-change-the-position-and-the-appearance-of-a-graph-legend-in-r-software
+https://www.datanovia.com/en/blog/ggplot-legend-title-position-and-labels/
+http://zevross.com/blog/2014/08/04/beautiful-plotting-in-r-a-ggplot2-cheatsheet-3/#changing-the-plot-margin
+https://community.rstudio.com/t/strange-symbols-in-plot-legend/56208
+https://stackoverflow.com/questions/14411270/ggplot-lines-transparency
+https://rpubs.com/Mentors_Ubiqum/Transparent_Lines
+https://stackoverflow.com/questions/15624656/label-points-in-geom-point
+http://www.sthda.com/english/wiki/ggplot2-texts-add-text-annotations-to-a-graph-in-r-software
+https://stackoverflow.com/questions/20139978/ggplot2-label-values-of-barplot-that-uses-fun-y-mean-of-stat-summary
+https://stackoverflow.com/questions/40542685/how-to-jitter-remove-overlap-for-geom-text-labels
+https://stackoverflow.com/questions/10836843/ggplot2-plot-area-margins
+http://www.cookbook-r.com/Graphs/Legends_(ggplot2)/
+https://www.datanovia.com/en/blog/ggplot-legend-title-position-and-labels/#rename-legend-labels-and-change-the-order-of-items
+https://stackoverflow.com/questions/17148679/construct-a-manual-legend-for-a-complicated-plot
+http://www.sthda.com/english/articles/24-ggpubr-publication-ready-plots/81-ggplot2-easy-way-to-mix-multiple-graphs-on-the-same-page/ 
+
+avg line
+https://community.rstudio.com/t/plot-an-average-line-over-the-scatter-plot-within-each-cell-of-facet-grid/7425/2
+https://stackoverflow.com/questions/19258460/standard-error-bars-using-stat-summary
+https://stackoverflow.com/questions/42493048/computation-failed-for-stat-summary-what-must-be-a-character-string-or-a-func
+https://stackoverflow.com/questions/57083793/different-colors-for-ribbons-in-stat-summary-using-groups
+https://ggplot2tutor.com/summary_statistics/summary_statistics/
